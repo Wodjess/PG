@@ -1,0 +1,5 @@
+C:\Users\tokar\source\repos\Passwordgenerator_LITE\bin\Release\net5.0-windows\publish\Passwordgenerator_LITE.exe
+C:\Users\tokar\source\repos\Passwordgenerator_LITE\bin\Release\net5.0-windows\publish\Passwordgenerator_LITE.dll
+C:\Users\tokar\source\repos\Passwordgenerator_LITE\bin\Release\net5.0-windows\publish\Passwordgenerator_LITE.deps.json
+C:\Users\tokar\source\repos\Passwordgenerator_LITE\bin\Release\net5.0-windows\publish\Passwordgenerator_LITE.runtimeconfig.json
+C:\Users\tokar\source\repos\Passwordgenerator_LITE\bin\Release\net5.0-windows\publish\Passwordgenerator_LITE.pdb
